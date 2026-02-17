@@ -7,7 +7,8 @@ This assignment focuses on learning probability density functions by applying a 
 
 ## Assignment Problem Statement
 
-![Assignment Screenshot](assignment.png)
+<img width="1919" height="1079" alt="image" src="https://github.com/user-attachments/assets/d2f8f467-b1e0-4abd-9fe9-3a631d2e3522" />
+
 
 ---
 
